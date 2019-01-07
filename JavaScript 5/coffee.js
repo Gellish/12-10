@@ -22,6 +22,7 @@
         else {
             output.innerHTML = "Insuffecient Amount";
             balance.innerHTML = "0";
+            balance.style.color = "orange";
             output.style.color = "orange";
         }
     }
