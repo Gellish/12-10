@@ -22,20 +22,20 @@ fuction accept_input() {
 } 
 
 function level1() {
-	var input = accept_input()
+  var input = accept_input()
   var cprice = 25;
   checkamount(input,price)
   }
 
 function level2() {
-	var input = accept_input()
+  var input = accept_input()
   var price = 30;
   checkamount(input,price)
 }
 
 function level3() {
-	var input = accept_input()
-  var cprice = 50;
-  checkamount(input,price)
-	}
+ var input = accept_input()
+ var cprice = 50;
+ checkamount(input,price)
+}
 
